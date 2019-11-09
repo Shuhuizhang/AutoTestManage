@@ -1,2 +1,2 @@
-# AutoTestManage
-learing
+# AutomationTest
+Personal contact project for automation 
